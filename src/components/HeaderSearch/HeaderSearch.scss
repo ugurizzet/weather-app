@@ -1,0 +1,14 @@
+.search-bar {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    position: relative;
+    #city{
+        width: 25vw;
+        height: 3rem;
+        border-radius: 2rem;
+        border: none;
+        padding: 0 1rem;
+    }
+}
